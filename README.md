@@ -9,7 +9,7 @@
 
   Digicap is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="[https://codewithsadee.github.io/footcap/](https://arunachalesh58.github.io/e-commerce_website/)"><strong>➥ Live Demo</strong></a>
+  <a href="https://arunachalesh58.github.io/e-commerce_website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,9 +17,9 @@
 
 ### Demo Screeshots
 
-![Footcap Desktop Demo](./readme-images/preview1.png "Desktop Demo")\
+![Footcap Desktop Demo](./assets/images/preview1.png "Desktop Demo")\
 
-![Footcap Desktop Demo](./readme-images/preview2.png "Desktop Demo")
+![Footcap Desktop Demo](./assets/images/preview2.png "Desktop Demo")
 
 
 
